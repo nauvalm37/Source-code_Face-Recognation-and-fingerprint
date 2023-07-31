@@ -1,7 +1,7 @@
-Sistem Keamanan Pintu Rumah Menggunakan Pengenalan Wajah dan Fingerprint
+Project ini saya buat untuk Sistem Keamanan Pintu Rumah Menggunakan Pengenalan Wajah dan Fingerprint
 
 
-Beberapa fungsi dan fitur dari perangkat ini antara lain:
+adapun Beberapa fungsi dan fitur dari perangkat ini antara lain:
 
 Sistem dapat membuka kunci Pintu dengan Pengenalan Wajah.
 Sistem dapat membuka kunci dengan menggunakan sidik jari.
